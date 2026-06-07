@@ -32,7 +32,7 @@ def add(num1: int,num2: int):
 
 user = {"name": "ali"}
 
-name = "milad"
+name = "milad soleymani"
 
 # user.items()
 
