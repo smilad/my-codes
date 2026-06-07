@@ -34,8 +34,6 @@ user = {"name": "ali"}
 
 name = "milad soleymani"
 
-# user.items()
-
 
 help(add)
 
